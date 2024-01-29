@@ -1,6 +1,9 @@
 # learnapp
+A simple e-learning application using Flutter and Firebase. 
+Cannot find a good name for this application so I keep it simple like this.
 
-A new Flutter project.
+# Contributor
+- Josoa886 (Me)
 
 ## Getting Started
 
