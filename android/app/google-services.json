@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46559351301",
+    "project_id": "learn-app-f4c4c",
+    "storage_bucket": "learn-app-f4c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46559351301:android:e83b28bae0512b9416426c",
+        "android_client_info": {
+          "package_name": "com.example.learnapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9VURQBEhFA5il0YIGl6pAxzF3B0ji7k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
